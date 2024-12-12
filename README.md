@@ -1,0 +1,2 @@
+# ALU-Design-Using-M-GDI-Technique-with-2T-XOR-Gate-and-Decoder
+ Arithmetic Logic Unit (ALU) using the Multiple-Gate Diffusion Input (M-GDI) technique, incorporating a 2T XOR gate and a decoder for optimized low-power and high-performance operation. The design focuses on reducing power consumption and transistor count while maintaining functionality for a variety of arithmetic and logical operations.
